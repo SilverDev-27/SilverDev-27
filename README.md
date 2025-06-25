@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Silverio - a Computer Science studant who is passionate about writing clean, creative, and practical solutions with code.
-- On this profile, you'll find some of my Java and Python projects from class,  including programs using object-oriented programming, file handling, and UI design.
+- On this profile, you'll find some of my Personal Projects along with Java and Python projects from class,  including programs using object-oriented programming, file handling, and UI design.
 - I'm currently exploring web development and full-stack app design.
 - I’m currently learning discrete structures and computer networks. I am always looking to learn, collaborate, and grow as a developer.
 - 📫 The best ways to reach me are through my email 627silver@gmail.com
